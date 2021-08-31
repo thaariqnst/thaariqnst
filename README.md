@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### i'm currently learning kotlin 
 
+###you can find me on instagram
+
 <!--
 **thaariqnst/thaariqnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
