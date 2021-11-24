@@ -3,10 +3,13 @@
 currently learning Kotlin and Android app Development
 
 
-<p align="left">
-<a href="https://github.com/thaariqnst">
-<img height="170em" align="right src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thaariqnst&layout=compact&langs_count=8&theme=buefy"/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=thaariqnst&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
+  </a>
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaariqnst&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaariqnst&layout=compact&bg_color=FFF&text_color=000&border_color=444"  height="165">
+  </a>
+  <br>
 </p>
