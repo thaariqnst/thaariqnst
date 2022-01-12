@@ -1,6 +1,6 @@
 ### Hi i'm Thaariq
 
-currently learning Kotlin and Android app Development
+currently learning Android Development and Flutter Application using Dart
 
 
 <p align="center">
